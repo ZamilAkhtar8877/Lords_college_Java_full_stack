@@ -1,2 +1,1 @@
-# Lords_college_Java_full_stack
-Training
+
